@@ -1,0 +1,110 @@
+hej,CatchStartConversation
+hejhej,CatchStartConversation
+hi,CatchStartConversation
+hello,CatchStartConversation
+hallå,CatchStartConversation
+hey,CatchStartConversation
+yo,CatchStartConversation
+hej du,CatchStartConversation
+hej där,CatchStartConversation
+hej igen,CatchStartConversation
+hej på dig,CatchStartConversation
+hi,CatchStartConversation
+hello,CatchStartConversation
+hallå,CatchStartConversation
+hallå?,CatchStartConversation
+hey,CatchStartConversation
+yo,CatchStartConversation
+hej hej,CatchStartConversation
+halloj,CatchStartConversation
+tja,CatchStartConversation
+tjo,CatchStartConversation
+hejjjj,CatchStartConversation
+hallå där,CatchStartConversation
+hallå igen,CatchStartConversation
+tjabba,CatchStartConversation
+tjenaCatchStartConversation
+är du där,CatchStartConversation
+e du där,CatchStartConversation
+är du kvar,CatchStartConversation
+e du kvar,CatchStartConversation
+hej då,CatchEndConversation
+ha det,CatchEndConversation
+vi ses,CatchEndConversation
+vi hörs,CatchEndConversation
+hejdå,CatchEndConversation
+adjö,CatchEndConversation
+byebye,CatchEndConversation
+bye,CatchEndConversation
+farväl,CatchEndConversation
+how are you,CatchHowAreYou
+hur mår du,CatchHowAreYou
+hej hur mår du,CatchHowAreYou
+hur är läget,CatchHowAreYou
+läget,CatchHowAreYou
+vad? händer,CatchHowAreYou
+sup,CatchHowAreYou
+hru,CatchHowAreYou
+händer,CatchHowAreYou
+vem är du,catchwhoareyou
+är du en bot,CatchAreYouABot
+är du en robot,CatchAreYouABot
+vad heter du,CatchAreYouABot
+vad är ditt namn,CatchAreYouABot
+vad e ditt namn,CatchAreYouABot
+vad ska jag kalla dig,CatchAreYouABot
+vad ska vi kalla dig,CatchAreYouABot
+är du en? pojke eller flicka,CatchWhatsYourGender
+är du en? kvinna eller man,CatchWhatsYourGender
+är du en? tjej eller kille,CatchWhatsYourGender
+är du en? flicka eller pojke,CatchWhatsYourGender
+är du en man eller kvinna,CatchWhatsYourGender
+är du en kille eller tjej,CatchWhatsYourGender
+har du en? kille,CatchAreYouSingle
+har du en? tjej,CatchAreYouSingle
+har du en? pojkvän,CatchAreYouSingle
+har du en? flickvän,CatchAreYouSingle
+är du singel,CatchAreYouSingle
+är du ledig,CatchAreYouSingle
+har du pojkvän,CatchAreYouSingle
+har du flickvän,CatchAreYouSingle
+har du en pojkvän,CatchAreYouSingle
+har du en flickvän,CatchAreYouSingle
+har du nån pojkvän,CatchAreYouSingle
+har du nån flickvän,CatchAreYouSingle
+har du någon pojkvän,CatchAreYouSingle
+har du någon flickvän,CatchAreYouSingle
+har du en pojkvän eller flickvän,CatchAreYouSingle
+har du en flickvän eller pojkvän,CatchAreYouSingle
+har du nån pojkvän eller flickvän,CatchAreYouSingle
+har du nån flickvän eller pojkvän,CatchAreYouSingle
+har du någon pojkvän eller flickvän,CatchAreYouSingle
+har du någon flickvän eller pojkvän,CatchAreYouSingle
+är du singel,CatchAreYouSingle
+hur mycket tjänar,CatchHowMuchDoYouMake
+vad tjänar du,CatchHowMuchDoYouMake
+vad har du i lön,CatchHowMuchDoYouMake
+vad har du för månadslön,CatchHowMuchDoYouMake
+vad har du i månadslön,CatchHowMuchDoYouMake
+vilken är din favoritfärg,CatchWhatsYourFavoriteColor
+vad är din favoritfärg,CatchWhatsYourFavoriteColor
+har du en favoritfärg,CatchWhatsYourFavoriteColor
+vilken är din favoriträtt,CatchWhatsYourFavoriteFood
+vilken är ditt favoritrecept,CatchWhatsYourFavoriteFood
+vad är din favoriträtt,CatchWhatsYourFavoriteFood
+vad är din favoritmat,CatchWhatsYourFavoriteFood
+vad är ditt favoritrecept,CatchWhatsYourFavoriteFood
+har du en favoriträtt,CatchWhatsYourFavoriteFood
+har du ett favoritrecept,CatchWhatsYourFavoriteFood
+vad äter du,CatchWhatsYourDiet
+är du vegetarian,CatchWhatsYourDiet
+är du vegeterian,CatchWhatsYourDiet
+är du vegan,CatchWhatsYourDiet
+vad jobbar du med,CatchWhereDoYouWork
+var jobbar du,CatchWhereDoYouWork
+vad jobbar du,CatchWhereDoYouWork
+vad gör du om dagarna,CatchWhereDoYouWork
+vad är ditt jobb,CatchWhereDoYouWork
+vad är ditt levebröd,CatchWhereDoYouWork
+har du ett jobb,CatchWhereDoYouWork
+har du något jobb,CatchWhereDoYouWork
