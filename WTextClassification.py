@@ -126,8 +126,8 @@ V = []
 for sentence in sentences:
     V.append(sent_vectorizer(sentence, model))
 
-X_train = V[0:63]
-X_test = V[63:71]
+X_train = V[0:71]
+X_test = V[71:79]
 
 # 2- CatchAreYouSingle 3- CatchHowMuchDoYouMake, 10- CatchWhatsYourFavoriteColor, 4- CatchWhatsYourFavoriteFood, 5- CatchWhatsYourDiet
 # 6-CatchWhereDoYouWork  7- CatchWhatsYourGender 8- CatchWhatsYourName 9- CatchAreYouABot 11- catchwhoareyou 12- CatchHowAreYou
